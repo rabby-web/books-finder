@@ -1,7 +1,9 @@
+import Header from "./components/Header";
+
 function App() {
   return (
     <>
-      <h2 className="text-center">Book finder</h2>
+      <Header></Header>
     </>
   );
 }
