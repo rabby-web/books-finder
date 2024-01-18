@@ -16,7 +16,7 @@ export default function AllBooks() {
 
   function handleSearch(searchTerm) {
     console.log(searchTerm, "hh");
-    if (searchTerm === "") {
+    if (searchTerm.trim() === "") {
       setAllBooks(books);
     } else {
       const filtered = allBooks.filter((book) =>
