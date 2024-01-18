@@ -1,10 +1,14 @@
 import { useState } from "react";
 
-export default function BooksAction({ onSearch }) {
+export default function BooksAction({ onSearch, onSort }) {
   const [searchTerm, setSearchTerm] = useState("");
+  const [sort, setSort] = useState("");
   function handleClick(event) {
     event.preventDefault();
     onSearch(searchTerm);
+  }
+  function handleSort() {
+    onSort(sort);
   }
   return (
     <>
@@ -61,6 +65,9 @@ export default function BooksAction({ onSearch }) {
         <div className="flex items-stretch space-x-3">
           {/* <!-- Sort --> */}
           <select
+            onClick={handleSort}
+            value={sort}
+            onChange={() => setSort(event.target.value)}
             className="cursor-pointer rounded-md border px-4 py-2 text-center text-gray-600"
             name="sortBy"
             id="sortBy"
