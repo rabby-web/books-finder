@@ -69,7 +69,7 @@ export default function BooksCard({ books, onFav }) {
                     Favourite
                   </button>
                 ) : (
-                  <button className="flex min-w-[132px] items-center justify-center gap-1 rounded-md bg-[#1C4336]/[14%] py-1.5 text-yellow-300 transition-all hover:bg-[#1C4336]/[24%] lg:py-1.5">
+                  <button className="flex min-w-[132px] items-center justify-center gap-1 rounded-md bg-yellow-600 py-1.5 text-white transition-all hover:bg-[#1C4336]/[24%] lg:py-1.5">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       fill="none"
