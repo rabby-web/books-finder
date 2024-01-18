@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 1",
+      "price": 29.99,
+      "ratings": 4,
+      "year": 2023,
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 2",
+      "price": 49.99,
+      "ratings": 4,
+      "year": 2022,
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 3",
+      "price": 39.99,
+      "ratings": 4,
+      "year": 2024,
+      "favorite": true
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 4",
+      "price": 59.99,
+      "ratings": 4,
+      "year": 2023,
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 5",
+      "price": 19.99,
+      "ratings": 4,
+      "year": 2022,
+      "favorite": true
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 6",
+      "price": 79.99,
+      "ratings": 4,
+      "year": 2024,
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 7",
+      "price": 34.99,
+      "ratings": 4,
+      "year": 2023,
+      "favorite": true
+    },
+    {
+      "id": 8,
+      "image": "https://img.freepik.com/free-vector/js-logo-design-template_23-2150534320.jpg?w=740&t=st=1705562083~exp=1705562683~hmac=d9a5fbdcb260739bee26699e0742ae30c462401f0e2b34f120e825e5514fd5c1",
+      "name": "Product 8",
+      "price": 44.99,
+      "ratings": 4,
+      "year": 2022,
+      "favorite": false
+    }
+  ]
+  
