@@ -13,7 +13,7 @@ export default function BooksCard({ books, onFav }) {
             />
           </div>
           {/* <!-- info --> */}
-          <div className="space-y-3">
+          <div className="space-y-4">
             <p>{book.year}</p>
             <h4 className="text-lg font-bold lg:text-xl">{book.name}</h4>
             <p className="text-xs lg:text-sm">
